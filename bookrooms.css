@@ -1,0 +1,26 @@
+body{
+    background-image: url("h5.jpg");
+   
+   
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+form{
+  
+    border-radius: 50px;
+    padding: 20px;
+  width: 500px;
+  height: 150px;
+  margin: auto;
+  width: 50%;
+  border: 3px;
+  padding: 10px;
+}
+
+
+
+button{
+    margin-left: 45%;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(35, 38, 41);
+}
+
+#b{
+   margin-left: 880%;
+
+   
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+#img{
+    align-items: center;
+    border-radius: 15%;
+    margin-left: 47%;
+    padding:10px;
+}
+
+footer{
+    margin-left: 45%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+  
+}
+
